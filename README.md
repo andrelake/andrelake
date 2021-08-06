@@ -13,5 +13,5 @@
 </div>
   
 <div> 
-  <a href="https://www.linkedin.com/in/andre-lake-lago-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-lake-lago)
 </div>
