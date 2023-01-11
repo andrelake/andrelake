@@ -1,8 +1,8 @@
 ### Salve! 👋
 
 
-- 🔭 Em mudança de área. ADM -> TI
-- 🌱 Estudando Flutter e Java/Spring
+- 🔭 Desenvolvedor em constante aprendizado
+- 🌱 Atualmente estudando mobile
 - 📫 Contato: andre.lake@hotmail.com
 
 
