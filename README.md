@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor em constante aprendizado
-- 🌱 Atualmente estudando mobile
+- 🌱 Atualmente focado em Java/Spring
 - 📫 Contato: andre.lake@hotmail.com
 
 
